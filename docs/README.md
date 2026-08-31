@@ -16,7 +16,7 @@ Through this analysis, no-data training is found to encourage the musical explor
   <tr>
     <th style="vertical-align:top;width:5%">Version</th>
     <th style="vertical-align:top;width:40%">Description</th>
-    <th style=""text-align:center;width:55%">Demonstration</th>    
+    <th style="text-align:center;width:55%">Demonstration</th>    
   </tr>
   <tr>
     <td>1</td>
