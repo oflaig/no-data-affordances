@@ -7,3 +7,19 @@
 
 ## Sound examples
 
+<table>
+  <tr>
+    <th>Example</th>
+    <th>Demo</th>
+  </tr>
+  <tr>
+    <td>"... this example" (p1)</td>
+    <td>
+        <video width="320" height="240" controls>
+            <source src="/demos/sample.mov" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</table>
+
+
